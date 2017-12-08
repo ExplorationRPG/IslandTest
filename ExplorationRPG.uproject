@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.18",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ExplorationRPG",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a1a69b9983f65ab4d759c0548af802e7b734cafdf55bffad6c7207b6980f82
+size 259
